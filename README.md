@@ -3,8 +3,8 @@ This is a simple Node.js HTTP proxy server that forwards incoming requests to di
 
 ### Configuration
 - Zero dependencies!
-- Edit the port to listen on in proxy-router.js
-- Edit config.js (you can even edit it while the proxy server is running - it will hot reload within a minute)
-- `node proxy-router`
+- Edit the listening port in proxy-router.js
+- Edit config.js (you can also make changes while the proxy server is running - it will hot reload within a minute)
+- Run `node proxy-router`
 
 That's it! Enjoy.
